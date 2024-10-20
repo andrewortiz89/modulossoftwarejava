@@ -1,0 +1,56 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19/10/2024, 12:23:08 p. m.
+    Author     : USUARIO
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap');
+
+
+* {
+    font-family: "Martel Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}  
+header {
+    background-color: #504EBD;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+       
+}
+   
+.form { 
+    max-width: 300px;
+    margin-top: auto;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 5px;
+    display:block;
+    justify-content: center;
+    align-items: flex-start;
+    color:#020000; 
+    background-color:rgb(219,219,243);
+    border: 1px solid #020000; 
+      
+    }
+   body {
+    font-family: martel, sans-serif;
+    line-height: 1.5;
+    background-color: #f0f0f0;
+    }   
+
+
+
